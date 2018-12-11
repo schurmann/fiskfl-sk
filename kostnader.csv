@@ -1,0 +1,64 @@
+##fuel
+#små
+Slutvärde kostnader servicefordon små nya,Totala ägandekostnader (kr)
+Konventionell diesel,363771.1629
+Biodiesel B25.5 (25% inblandning av FAME/HVO),367380.7407
+Konventionell bensin,403959.6908
+Biobensin E4.8 (4.8% bioinblandning),409615.309
+Gasfordon,434467.6801
+Elfordon skåp. 26.7 kWh,308034.6369
+#mellan
+Slutvärde kostnader servicefordon mellan nya,Totala ägandekostnader (kr)
+Konventionell diesel,469797.3296
+Biodiesel B25.5 (25% inblandning av FAME/HVO),475505.4992
+Konventionell bensin,421784.9199
+Biobensin E4.8 (4.8% bioinblandning),428338.2553
+#stor
+Slutvärde kostnader servicefordon stor nya,Totala ägandekostnader (kr)
+Konventionell diesel,583084
+Biodiesel B25.5 (25% inblandning av FAME/HVO),589800
+Gasfordon,681734
+#work
+Slutvärde kostnader tjänstefordon nya,Totala ägandekostnader (kr)
+Konventionell Diesel,248979.9314
+Biodiesel B25.5 (25% inblandning av FAME/HVO),250658.8048
+Konventionell Bensin,220240.8062
+Bensin E4.8 (4.8% bioinblandning),222215.7839
+Fordonsgas,216129.6241
+Elfordon. 39 kWh,166109.397
+Elfordon. 17 kWh,137677.8936
+Elfordon. 100 kWh,589731.9021
+Laddhybrid,254998.9962
+Elhybrid,212947.486
+##brand
+#små
+Slutvärde kostnader servicefordon små fordonspark,Totala ägandekostnader (kr)
+VW TRANSPORT,371634.4266
+VW CADDY,373639.845
+#mellan
+Slutvärde kostnader servicefordon mellan fordonspark,Totala ägandekostnader (kr)
+MB Vito,544394.7103
+VW Transporter,505950.0819
+#stor
+Slutvärde kostnader servicefordon stor fordonspark,Totala ägandekostnader (kr)
+MB Sprinter,617705.9583
+VW Crafter,581278.3881
+#work
+Slutvärde kostnader tjänstefordon fordonspark,Totala ägandekostnader (kr)
+Audi A6,242926.6983
+Audi Q5,324389.5201
+BMW 220,277549.2553
+BMW 318,276689.5753
+BMW 320,303905.6001
+Skoda Superb,298040.1883
+Volvo S60,300181.3182
+Volvo S90,313829.9201
+Volvo V60,307233.7388
+Volvo V90,317744.171
+Volvo XC40,326688.9931
+Volvo XC60,324963.9198
+Volvo XC70,324441.0587
+VW Passat,294876.3345
+VW Tiguan ,310198.3611
+VW Toureg,337255.7066
+VW Passat GTE,250927.7226
